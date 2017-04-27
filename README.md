@@ -8,4 +8,4 @@ In this project, we'll generate our own Simpsons TV scripts using RNNs. We'll be
 * Run the notebook `jupyter notebook tv_script_generation.ipynb`
 
 ### Data
-The data comes from the [Kaggle](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data).
+The data comes from [Kaggle](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data).
